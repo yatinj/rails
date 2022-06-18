@@ -1,2 +1,2 @@
 # rails
-learning application built using rails
+learning to use rails
